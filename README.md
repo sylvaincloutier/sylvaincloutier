@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sylvaincloutier
-- 👀 I’m interested in Bitcoin, Coding & Politics
-- 🌱 I’m currently learning Basic coding (HTML, CSS)
+- 👋 Hi, I’m Sylvain Cloutier
+- 👀 I’m interested in bitcoin, coding & politics
+- 🌱 I’m currently learning the basics of coding (C programming) 
 - 💞️ I’m looking to collaborate on a Bitcoin app/business
 - 📫 How to reach me info@sylvain-cloutier.com
 
