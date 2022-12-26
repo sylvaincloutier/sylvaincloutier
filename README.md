@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sylvain Cloutier. Bonjour, je m'appelle Sylvain Cloutier
 - 👀 I’m interested in Bitcoin, Coding & Marketing. J'ai un intérêt pour le Bitcoin, la programmation et le marketing. 
-- 🌱 I’m currently learning the basics of coding. J'apprends présentement les bases de la programmation (HTML-CSS) sur FreeCodeCamp. 
+- 🌱 I’m currently learning the basics of coding. J'apprends présentement les bases de la programmation sur FreeCodeCamp. 
 - 💞️ I’m looking to collaborate on a Bitcoin app/Online business. J'aimerais collaborer sur des projets bitcoin ou de marketing en ligne. 
 - 📫 How to reach me info@sylvain-cloutier.com. Pour me rejoindre, info@sylvain-cloutier.com ou @sylcloutier sur twitter
 
