@@ -5,7 +5,7 @@
 - 📫 How to reach me info@sylvain-cloutier.com. Pour me rejoindre, info@sylvain-cloutier.com ou @sylcloutier sur twitter
 
 <a href="https://www.wealthyaffiliate.com?a_aid=affb5af0"><img src="https://my.wealthyaffiliate.com/banners/show/wa_starter_650x255.png" border="0" /></a>
-<iframe src="https://podcasters.spotify.com/pod/show/lavieenblocs/embed/episodes/S3-Ep2-USDC-fait-un-retour--Bitrefill-Une-option-incontournable-e20mf0p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 
 <!---
 sylvaincloutier/sylvaincloutier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
