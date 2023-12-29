@@ -2,7 +2,7 @@
 - 👀 I’m interested in P2P Digital Cash (aka crypto), Coding & Marketing. J'ai un intérêt pour la monnaie numérique P2P (aka crypto), la programmation et le marketing. 
 - 🌱 I’m currently exploring coding. J'explore mes possibilité dans la programmation.  
 - 💞️ I’m looking to collaborate on P2P Digital Cash projects. J'aimerais collaborer sur des projets de monnaies numériques P2P.  
-- 📫 How to reach me info@sylvain-cloutier.com. Pour me rejoindre, info@sylvain-cloutier.com ou @sylcloutier sur twitter
+- 📫 How to reach me sly@sylvaincloutier.com. Pour me rejoindre, sly@sylvaincloutier.com ou @sylcloutier sur twitter
 
 
 <!---
